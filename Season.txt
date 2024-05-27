@@ -1,2 +1,4 @@
 Spring
 Summer
+Autumn
+Winter
